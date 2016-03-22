@@ -7,7 +7,7 @@ charset = utf-8
 indent_style = space
 insert_final_newline = true
 
-[*.{js,json,yml}]
+[*.{html,js,json,yml}]
 indent_size = 2
 
 [*.php]
